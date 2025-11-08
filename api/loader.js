@@ -4,7 +4,7 @@ export default function handler(req, res) {
     
     // BLOCK all browsers
     if (userAgent.includes('Mozilla') && !userAgent.includes('Roblox')) {
-        res.writeHead(302, { 'Location': 'https://greatnessloader.vercel.app' });
+        res.writeHead(302, { 'Location': 'https://greatnesssloader.vercel.app' });
         return res.end();
     }
     
