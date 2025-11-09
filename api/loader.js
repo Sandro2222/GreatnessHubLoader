@@ -39,6 +39,11 @@ local GameConfigs = {
         script = "https://raw.githubusercontent.com/Sandro2222/GHscripts/refs/heads/main/RivalsGH",
         color = Color3.fromRGB(0, 255, 127)
     },
+    [17625359962] = {
+        name = "Plants VS Brainrots",
+        script = "https://raw.githubusercontent.com/Sandro2222/GHscripts/refs/heads/main/PVSB",
+        color = Color3.fromRGB(0, 0, 255)
+    },
     [99567941238278] = {
         name = "Greatness Hub & Horizon Hub",
         script = "https://raw.githubusercontent.com/Sandro2222/GHscripts/refs/heads/main/InkGameGH",
