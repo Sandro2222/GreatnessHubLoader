@@ -39,6 +39,11 @@ local GameConfigs = {
         script = "https://raw.githubusercontent.com/Sandro2222/GHscripts/refs/heads/main/RivalsGH",
         color = Color3.fromRGB(0, 255, 127)
     },
+    [118582391303761] = {
+        name = "Untitled RPG", 
+        script = "https://raw.githubusercontent.com/Sandro2222/GHscripts/refs/heads/main/untitledRPG",
+        color = Color3.fromRGB(255, 85, 0)
+    },
     [127742093697776] = {
         name = "Plants VS Brainrots",
         script = "https://raw.githubusercontent.com/Sandro2222/GHscripts/refs/heads/main/PVSB",
